@@ -23,7 +23,7 @@ button {
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.17
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
@@ -74,8 +74,7 @@ color: #404bbf;
     text-align: center;
 }
 .button {
-font-family: "Roboto", sans-serif
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+font-family: "Roboto", sans-serif;
 background: #4d5ae5;
 font-weight: 500;
 line-height: 1.5;
@@ -111,9 +110,7 @@ background: #404bbf;
     line-height: 24px;
     letter-spacing: 0.02em;
 }
-.third-section {
-    background: #F4F4FD;
-}
+
 .section-title {
         font-family: "Roboto", sans-serif;
         font-size: 36px;
@@ -125,8 +122,8 @@ background: #404bbf;
         text-transform: capitalize;
 }
 
-.team-foto {
-    background-color: #FFFFFF<
+.our-team {
+    background-color: #FFFFFF;
 }
 .name-title {
         font-family: "Roboto", sans-serif;
