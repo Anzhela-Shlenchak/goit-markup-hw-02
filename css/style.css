@@ -1,7 +1,8 @@
 body {
-    font-family: "Roboto", "Raleway", sans-serif;
+    font-family: "Roboto", sans-serif;
     line-height: 24px;
-    color: #2E2F42;
+    color: #434455;
+    background-color: #FFFFFF;
 }
 ul, ol {
     list-style-type: none;
@@ -21,7 +22,7 @@ button {
     font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
-        line-height: 1.167;
+        line-height: 1.17
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
@@ -67,26 +68,23 @@ color: #404bbf;
         sans-serif;
     font-size: 56px;
     font-weight: 700;
-    line-height: 60px;
+    line-height: 1.07;
     letter-spacing: 0.02em;
-    text-align: center;
 }
 .button {
+font-family: "Roboto", sans-serif
 box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background: #4d5ae5;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #ffffff;
 }
 .button:hover,
 .button:focus {
 background: #404bbf;
 }
-.button-text {
-    font-family: "Roboto", sans-serif;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.04em;
-        color: #2e2f42;
-}
+
 .page-title {
     color: #2E2F42;
     font-family: "Roboto", sans-serif;
@@ -94,7 +92,6 @@ background: #404bbf;
     font-weight: 700;
     line-height: 40px;
     letter-spacing: 0.02em;
-    text-align: center;
 }
 .benefit {
         font-family: "Roboto", sans-serif;
@@ -119,17 +116,25 @@ background: #404bbf;
         font-family: "Roboto", sans-serif;
         font-size: 36px;
         font-weight: 700;
-        line-height: 40px;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         color: #2E2F42;
+        text-align: center;
+        text-transform: capitalize;
+}
+.our-team {
+    background-color: #FFFFFF;
 }
 .name-title {
         font-family: "Roboto", sans-serif;
         font-size: 20px;
         font-weight: 500;
-        line-height: 24px;
+        line-height: 1.11;
         letter-spacing: 0.02em;
     color: #2E2F42;
+    text-align: center;
+    text-transform: capitalize;
+
 }
 .name-deskription {
         font-family: "Roboto", sans-serif;
@@ -145,6 +150,7 @@ background: #404bbf;
 }
 .logo-footer {
 color: #F4F4FD;
+line-height: 1.17;
 }
 .conclusion {
     color: #F4F4FD;
