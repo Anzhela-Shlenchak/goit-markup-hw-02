@@ -16,7 +16,8 @@ button {
 
 .logo-header { 
     color: #2e2f42;
-    
+    line-height: 1.17;
+    letter-spacing: 0.03em; 
 }
 .logo {
     font-family: "Raleway", sans-serif;
@@ -70,6 +71,7 @@ color: #404bbf;
     font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;
+    text-align: center;
 }
 .button {
 font-family: "Roboto", sans-serif
@@ -122,14 +124,15 @@ background: #404bbf;
         text-align: center;
         text-transform: capitalize;
 }
-.our-team {
-    background-color: #FFFFFF;
+
+.team-foto {
+    background-color: #FFFFFF<
 }
 .name-title {
         font-family: "Roboto", sans-serif;
         font-size: 20px;
         font-weight: 500;
-        line-height: 1.11;
+        line-height: 1.2;
         letter-spacing: 0.02em;
     color: #2E2F42;
     text-align: center;
@@ -151,6 +154,7 @@ background: #404bbf;
 .logo-footer {
 color: #F4F4FD;
 line-height: 1.17;
+letter-spacing: 0.03em;
 }
 .conclusion {
     color: #F4F4FD;
