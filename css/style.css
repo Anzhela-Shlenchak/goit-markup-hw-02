@@ -121,8 +121,12 @@ background: #404bbf;
         text-align: center;
         text-transform: capitalize;
 }
+.third-section {
+background-color: #F4F4FD;
+}
 
-.our-team {
+
+.team-foto {
     background-color: #FFFFFF;
 }
 .name-title {
